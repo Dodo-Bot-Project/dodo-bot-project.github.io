@@ -7,7 +7,7 @@ import starlightContextualMenu from "starlight-contextual-menu";
 // https://astro.build/config
 export default defineConfig({
 	site: "https://dodo-bot-project.github.io",
-	base: "/website",
+	// base: "/website",
 	integrations: [
 		starlight({
 			plugins: [
