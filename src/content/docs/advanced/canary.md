@@ -7,7 +7,7 @@ description: A page about Canary and how to use them.
 Canary is a codename for the absolute newest codebase changes in Dodo-Bot's code. It's the primary place to develop upcoming versions of the bot and as such it may have latest changes and bugs too.
 
 ## Using Canary
-The installation steps are pretty much the same as in the "Installation" page but you may need to slightly change the way the source code is obtained.
+The installation steps are pretty much the same as in the [Installation](/getting-started/install) page but you may need to slightly change the way the source code is obtained.
 
 ### Manually (not recommended)
 [Open the Canary branch](https://github.com/ddodogames/Dodo-Bot/tree/canary) and press "Download ZIP" through the "Code" button, extract it somewhere and there you go.
