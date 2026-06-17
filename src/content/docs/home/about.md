@@ -13,6 +13,6 @@ I was fed up with some verified bot in the wild called MEE6 and so i decided to 
 ## Versions
 | Version | Supported? | Latest version | Notes | 
 |--------|--------|--------|--------|
-| **V3 (current)** | ✅ | 3.0.3 | Previously called "Rebase". |
+| **V3 (current)** | ✅ | 3.0.4 | Previously called "Rebase". |
 | **V2** | ✅ | 2.2.8  | Temporarily maintained as LTS. |
 | **V1** | ❌ | 1.7.0-1 | |
