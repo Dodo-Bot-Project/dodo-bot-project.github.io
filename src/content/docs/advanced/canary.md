@@ -8,7 +8,7 @@ Canary is the unstable branch for developing upcoming versions of Dodo-Bot befor
 
 Builds released from this branch are incomplete and may have bugs as a result, so it is not recommended to use them for normal usage.
 
-While regular releases eventually stop moving as they progress from being pre-release to Stable, Canary will always be Canary. It will always be constantly moving compared to a non-Canary release.
+While regular releases eventually stop moving as they progress from being pre-release to stable, Canary will always be Canary. It will always be constantly moving compared to a non-Canary release.
 
 ## Using Canary
 The installation steps are pretty much the same as in the [Installation](/getting-started/install) page but you may need to slightly change the way the source code is obtained.
