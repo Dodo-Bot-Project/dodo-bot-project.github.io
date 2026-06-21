@@ -16,7 +16,7 @@ Assuming that Git is installed, open a terminal and then type the following:
 ```
 git clone https://github.com/ddodogames/Dodo-Bot
 
-# You can also get a specific version available like latest v2 for example
+# You can also get a specific major version available like latest v2 for example
 git clone -b v2 https://github.com/ddodogames/Dodo-Bot "Dodo-Bot v2"
 
 # Or a specific version number if you want to download a old version (not recommended)
@@ -26,7 +26,7 @@ git clone -b 3.0.3 https://github.com/ddodogames/Dodo-Bot "Dodo-Bot 3.0.3"
 a Folder called "Dodo-Bot" should appear in the directory where you executed the command in.
 
 ## Setting up the bot
-Open the folder containing the bot's code and look for a `config.js` file. 
+Open the folder containing the bot's code and look for a `config.example.js` file. Once you find it, create a duplicate of the file as `config.js` to edit the options. 
 
 All options in the config are described [here](https://github.com/ddodogames/Dodo-Bot#configuration).
 
